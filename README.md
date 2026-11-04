@@ -96,7 +96,7 @@ Agent soạn một bản nháp dựa trên code của bạn: site đang thu dữ
 
 ## Hỏi nhanh
 
-**Có thay được luật sư không?** Không. Đây là bước rà soát ban đầu để biết mình đang thiếu gì. Mục 🔴 nên hỏi lại người làm luật. Xem [DISCLAIMER.md](DISCLAIMER.md).
+**Có thay được luật sư không?** Không. Kết quả do AI tạo, chỉ để tham khảo, giúp bạn biết mình đang thiếu gì. Đừng hoảng khi thấy 🔴: phần lớn là chỉnh sửa nhỏ trong code, làm được trong vài giờ. Việc gì quan trọng thì hỏi lại người làm luật. Xem [DISCLAIMER.md](DISCLAIMER.md).
 
 **Mình không dùng AI agent thì sao?** Hiện tại cần một trong các tool ở trên. Bạn vẫn có thể đọc thẳng các checklist trong [`references/`](references/) như một danh sách kiểm tra cho team.
 

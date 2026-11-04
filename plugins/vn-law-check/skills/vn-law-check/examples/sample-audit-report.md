@@ -5,6 +5,10 @@ Có 2 mẫu. Chọn theo mức ở bước triage (`references/00-triage.md`):
 - **Mẫu A: rút gọn**: site mức 0-1 (tĩnh, hoặc chỉ có form liên hệ/analytics/chatbot).
 - **Mẫu B: đầy đủ**: site mức 2-3 (bán hàng, nền tảng).
 
+Ở cả 2 mẫu, dòng **đầu tiên** của báo cáo (ngay dưới tiêu đề) luôn là câu sau, giữ nguyên chữ. Riêng site mức 0 (không có 🔴) thì bỏ câu thứ hai:
+
+> 🤖 Báo cáo do AI tạo từ mã nguồn, chỉ để tham khảo, không phải ý kiến pháp lý. Phần lớn mục 🔴 là chỉnh sửa nhỏ trong code, làm được trong vài giờ, không cần quá lo. Việc gì quan trọng thì hỏi lại người làm luật.
+
 Ở cả 2 mẫu, chỉ liệt kê lĩnh vực có áp dụng. Các lĩnh vực không áp dụng gom vào 1 dòng, không kẻ bảng ⚪.
 
 ---
@@ -14,6 +18,8 @@ Có 2 mẫu. Chọn theo mức ở bước triage (`references/00-triage.md`):
 ### Ví dụ mức 0: blog cá nhân tĩnh
 
 > **Rà soát pháp lý: minh.dev** (02/11/2026)
+>
+> 🤖 Báo cáo do AI tạo từ mã nguồn, chỉ để tham khảo, không phải ý kiến pháp lý.
 >
 > **Kết quả quét:** mức 0, site tĩnh. Không có form, không có script theo dõi, không bán hàng, không có tài khoản người dùng, không có chatbot.
 >
@@ -26,6 +32,8 @@ Có 2 mẫu. Chọn theo mức ở bước triage (`references/00-triage.md`):
 ### Ví dụ mức 1: landing page có form liên hệ và Google Analytics
 
 > **Rà soát pháp lý: studio-an.vn** (02/11/2026)
+>
+> 🤖 Báo cáo do AI tạo từ mã nguồn, chỉ để tham khảo, không phải ý kiến pháp lý. Phần lớn mục 🔴 là chỉnh sửa nhỏ trong code, làm được trong vài giờ, không cần quá lo. Việc gì quan trọng thì hỏi lại người làm luật.
 >
 > **Kết quả quét:** mức 1. Có form liên hệ (`index.html:14`, gửi qua Formspree) và Google Analytics (`index.html:5`). Không bán hàng, không có tài khoản người dùng.
 >
@@ -46,6 +54,8 @@ Có 2 mẫu. Chọn theo mức ở bước triage (`references/00-triage.md`):
 ## Mẫu B: đầy đủ (site mức 2-3)
 
 ### Rà soát pháp lý: [Tên website]
+
+> 🤖 Báo cáo do AI tạo từ mã nguồn, chỉ để tham khảo, không phải ý kiến pháp lý. Phần lớn mục 🔴 là chỉnh sửa nhỏ trong code, làm được trong vài giờ, không cần quá lo. Việc gì quan trọng thì hỏi lại người làm luật.
 
 **Ngày audit:** [ngày]
 **Kết quả quét:** mức [2/3]. [tóm tắt tín hiệu kèm file:dòng, ví dụ: giỏ hàng ở `pages/product.html:7`, cổng VNPay ở `checkout.js:2`]

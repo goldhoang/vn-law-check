@@ -1,5 +1,7 @@
 # Rà soát pháp lý: Cà phê Đồi Sương (site demo)
 
+> 🤖 Báo cáo do AI tạo từ mã nguồn, chỉ để tham khảo, không phải ý kiến pháp lý. Phần lớn mục 🔴 là chỉnh sửa nhỏ trong code, làm được trong vài giờ, không cần quá lo. Việc gì quan trọng thì hỏi lại người làm luật.
+
 > Báo cáo này được tạo bằng cách chạy vn-law-check trên [`demo/site/`](./site/). Đây là site giả lập, cố ý để lại những lỗi thường gặp ở shop nhỏ Việt Nam.
 
 **Ngày audit:** 02/11/2026

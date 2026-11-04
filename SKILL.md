@@ -24,7 +24,7 @@ Rà soát (audit) một website theo quy định pháp luật Việt Nam hiện 
 2. Theo bảng phân loại ở bước 1, chỉ mở checklist thực sự áp dụng tại `references/`: 01-personal-data-protection, 02-ecommerce, 03-cybersecurity, 04-consumer-protection, 05-advertising, 06-electronic-transactions, 07-ai-transparency (luôn thêm nếu có chatbot/nội dung AI), 08-penalties-reference, 09-mobile-app (luôn thêm nếu là mobile app), 10-generate-policy (khi người dùng yêu cầu soạn chính sách bảo mật/form đồng ý).
 3. Đọc code/nội dung website thực tế (footer, trang chính sách, cookie banner, form thu thập dữ liệu) để xác định trạng thái. Chưa kiểm tra thì không suy đoán.
 4. Xuất báo cáo theo mẫu `examples/sample-audit-report.md`. Với site mức 0-1, dùng bản rút gọn, không liệt kê các checklist không áp dụng thành bảng dài.
-5. Luôn đóng báo cáo bằng phần "Giới hạn & Khuyến nghị" (xem `DISCLAIMER.md`).
+5. Mở đầu báo cáo bằng dòng "🤖 Báo cáo do AI tạo..." theo `examples/sample-audit-report.md`, và đóng báo cáo bằng phần "Giới hạn & Khuyến nghị" (xem `DISCLAIMER.md`).
 6. Site thu thập dữ liệu mà thiếu chính sách hoặc xin đồng ý sai: cuối báo cáo gợi ý người dùng có thể bảo "soạn chính sách bảo mật cho dự án này". Khi được yêu cầu, làm theo `references/10-generate-policy.md` với khung `examples/privacy-policy-template.md`.
 
 Nguồn pháp luật đầy đủ: `sources/legal-references.md`.
