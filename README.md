@@ -130,6 +130,8 @@ Kèm link văn bản gốc là mình kiểm tra được ngay. Mọi góp ý đ�
 
 Mọi chỗ từng ghi sai và đã sửa được liệt kê ở [lịch sử đính chính](sources/legal-references.md#lịch-sử-đính-chính-nội-dung-luật), để ai dùng bản cũ biết cần xem lại gì. Lỗi đầu tiên do cộng đồng bắt: miễn trừ cho hộ kinh doanh nằm ở Điều 38 chứ không phải Điều 39.
 
+Cảm ơn [@anhtahaylove](https://github.com/anhtahaylove) đã sửa lỗi cài qua `npx skills add` và giúp `scan.sh` nhận ra nút "Đặt hàng".
+
 ## Dành cho dev: cấu trúc repo
 
 Cùng một nội dung, đặt ở nhiều file để mỗi tool tự đọc đúng chỗ:
