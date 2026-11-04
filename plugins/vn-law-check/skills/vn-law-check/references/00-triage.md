@@ -60,6 +60,17 @@ Không được miễn nếu trực tiếp xử lý dữ liệu nhạy cảm, x�
 
 Đoán quy mô từ chính site (trang giới thiệu, footer, thông tin đăng ký kinh doanh). Không đoán được thì ghi rõ trong báo cáo là mục D, E checklist 01 "mục E áp dụng nếu không thuộc diện miễn trừ khoản 3 Điều 38", thay vì dừng lại hỏi.
 
+## Mức ưu tiên: sửa được trong code trước, giấy tờ sau
+
+Site nhỏ đọc báo cáo để biết việc gì sửa ngay. Đừng biến báo cáo thành danh sách thủ tục hành chính.
+
+- **🔴 chỉ dành cho lỗi nhìn thấy và sửa được trong code hoặc nội dung site:** thiếu trang chính sách, ô đồng ý tích sẵn hoặc không có ô đồng ý, coi "tiếp tục sử dụng" là đồng ý, tracking chạy trước khi đồng ý, chính sách dẫn văn bản hết hiệu lực, chatbot giả làm người thật, phí ẩn ở bước thanh toán...
+- **Nghĩa vụ giấy tờ, thủ tục** (hồ sơ chuyển dữ liệu xuyên biên giới, hồ sơ đánh giá tác động, chỉ định nhân sự bảo vệ dữ liệu, thông báo, đăng ký với cơ quan nhà nước): với site mức 1-2, hoặc chủ site là hộ kinh doanh, doanh nghiệp siêu nhỏ, doanh nghiệp nhỏ, **tối đa 🟡**. Gộp lại thành một mục ngắn ở cuối báo cáo, mỗi nghĩa vụ một dòng, kết bằng "nên hỏi người làm luật". Ví dụ: "Dữ liệu khách lưu trên dịch vụ đặt ở nước ngoài (Firebase): về lý thuyết thuộc diện lập hồ sơ chuyển dữ liệu xuyên biên giới (khoản 2 Điều 20 Luật 91/2025). Nên hỏi người làm luật có cần làm không."
+- Không hướng dẫn cách nộp, nộp ở đâu, mẫu nào, trừ khi người dùng hỏi.
+- Không dùng giọng dọa ("phải nộp ngay", "sẽ bị phạt"). Nêu nghĩa vụ và căn cứ, để người dùng tự quyết.
+- Site mức 3 (nền tảng, xử lý dữ liệu nhiều người, kinh doanh dịch vụ xử lý dữ liệu): nghĩa vụ giấy tờ có thể xếp 🔴 như bình thường.
+- Sắp xếp báo cáo: việc sửa được trong một buổi lên trước, giấy tờ để cuối.
+
 ## Cách báo cáo cho site mức 0-1
 
 - Không liệt kê đủ 8 bảng checklist với hàng loạt ⚪. Báo cáo sẽ loãng và không ai đọc hết.

@@ -16,6 +16,7 @@ Mọi đường dẫn trong file này (`references/`, `scripts/`, `examples/`, `
    - 🟡 Nên cải thiện
    - 🟢 Đạt yêu cầu
    - ⚪ Không áp dụng cho loại website này
+   Với site nhỏ (mức 1-2, hộ kinh doanh, doanh nghiệp siêu nhỏ, nhỏ), nghĩa vụ giấy tờ, thủ tục chỉ xếp tối đa 🟡, gom ở cuối báo cáo; 🔴 dành cho lỗi sửa được trong code (xem "Mức ưu tiên" trong `references/00-triage.md`).
 5. Luôn khuyến nghị tham vấn luật sư/chuyên gia pháp lý cho quyết định cuối cùng, đặc biệt với các mục 🔴.
 6. Tự xác định loại hình website bằng cách quét code/nội dung thực tế (xem `references/00-triage.md`). Không đoán bừa, nhưng cũng không dừng lại hỏi người dùng nếu quét được. Chỉ hỏi lại khi quét xong vẫn không xác định được (không có quyền truy cập site/code, hoặc kết quả mâu thuẫn rõ với mô tả người dùng đưa ra).
 7. **Mức phạt chỉ lấy từ `references/08-penalties-reference.md`.** Hành vi nào bảng đó không có mức cụ thể thì ghi "mức phạt: CHƯA XÁC MINH", không tự đưa con số từ trí nhớ, không cộng dồn, không suy từ mức trần (ví dụ không ghi "tới 5% doanh thu" cho lỗi không phải chuyển dữ liệu xuyên biên giới). Không viết "sẽ bị đình chỉ/tạm dừng hoạt động" nếu checklist không dẫn căn cứ cụ thể.

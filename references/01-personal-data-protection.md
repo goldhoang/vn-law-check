@@ -57,7 +57,7 @@ Cần kiểm tra:
 
 ## D. Chuyển dữ liệu xuyên biên giới
 
-Mục này áp dụng cả với hộ kinh doanh, doanh nghiệp siêu nhỏ (khoản 3 Điều 38 không miễn khoản 2 Điều 20). Kiểm tra các trường hợp miễn ở khoản 6 Điều 20.
+Mục này áp dụng cả với hộ kinh doanh, doanh nghiệp siêu nhỏ (khoản 3 Điều 38 không miễn khoản 2 Điều 20). Kiểm tra các trường hợp miễn ở khoản 6 Điều 20. Với site nhỏ, mục này tối đa 🟡, một dòng, khuyên hỏi người làm luật (xem "Mức ưu tiên" trong `00-triage.md`).
 
 - [ ] Xác định có "chuyển dữ liệu xuyên biên giới" không. Theo Điều 20 Luật 91/2025, gồm 3 trường hợp:
   - chuyển dữ liệu ra hệ thống lưu trữ đặt ở nước ngoài
@@ -71,7 +71,7 @@ Mục này áp dụng cả với hộ kinh doanh, doanh nghiệp siêu nhỏ (kh
 
 ## E. Tổ chức & trách nhiệm nội bộ
 
-Xem phần miễn trừ ở đầu file trước. Mục này là phần được miễn theo khoản 3 Điều 38.
+Xem phần miễn trừ ở đầu file trước. Mục này là phần được miễn theo khoản 3 Điều 38. Với site nhỏ không được miễn, mục này cũng tối đa 🟡.
 
 - [ ] Đã lập đánh giá tác động xử lý dữ liệu (DPIA), gửi trong 60 ngày (Điều 21 Luật 91/2025). Cập nhật hồ sơ khi có thay đổi (Điều 22).
 - [ ] Có quy trình thông báo vi phạm/rò rỉ dữ liệu cho cơ quan chuyên trách **chậm nhất 72 giờ** (Điều 23 khoản 1 Luật 91/2025). Dùng Mẫu 08 (khoản 2 Điều 28 NĐ 356/2025), gửi cơ quan chuyên trách hoặc qua Cổng thông tin quốc gia về bảo vệ dữ liệu cá nhân. Riêng sự cố với dữ liệu vị trí, sinh trắc học: báo cả người dùng bị ảnh hưởng trong 72 giờ (điểm a khoản 1 Điều 29 NĐ 356/2025).
