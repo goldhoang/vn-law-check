@@ -126,7 +126,7 @@ Thấy chỗ sai khác thì [mở issue](https://github.com/mhfed/vn-law-check/i
 - **Đề xuất bổ sung:** luật mới, lỗi hay gặp mà checklist chưa có
 - **Phân loại sai:** tool xếp nhầm loại site của bạn
 
-Kèm link văn bản gốc là mình kiểm tra được ngay. Mọi góp ý được nhận đều ghi tên người góp ý trong bản cập nhật.
+Kèm link văn bản gốc là mình kiểm tra được ngay. Mọi góp ý được nhận đều ghi tên người góp ý trong bản cập nhật. Chi tiết ở [CONTRIBUTING.md](CONTRIBUTING.md).
 
 Mọi chỗ từng ghi sai và đã sửa được liệt kê ở [lịch sử đính chính](sources/legal-references.md#lịch-sử-đính-chính-nội-dung-luật), để ai dùng bản cũ biết cần xem lại gì. Lỗi đầu tiên do cộng đồng bắt: miễn trừ cho hộ kinh doanh nằm ở Điều 38 chứ không phải Điều 39.
 
@@ -163,6 +163,6 @@ tools/        sync.sh: sinh các bản copy cho từng tool từ nguồn gốc
 
 ## Gửi PR
 
-Chỉ sửa file nguồn gốc: `AGENTS.md`, `SKILL.md`, `references/`, `sources/`, `examples/`, `scripts/`, `DISCLAIMER.md`. Sau đó chạy `tools/sync.sh` để sinh lại các bản copy. CI sẽ kiểm tra tính nhất quán và format.
+Xem [CONTRIBUTING.md](CONTRIBUTING.md).
 
 MIT license cho phần code và cấu trúc repo. Văn bản pháp luật được dẫn chiếu là tài liệu công khai của Nhà nước, không thuộc phạm vi license này.
