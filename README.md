@@ -165,4 +165,6 @@ tools/        sync.sh: sinh các bản copy cho từng tool từ nguồn gốc
 
 Xem [CONTRIBUTING.md](CONTRIBUTING.md).
 
+Trang hướng dẫn ở [mhfed.github.io/vn-law-check](https://mhfed.github.io/vn-law-check/) sinh từ `tools/build_site.py`. Sửa nội dung luật ở `references/` thì sửa trang cho khớp rồi chạy `python3 tools/build_site.py`.
+
 MIT license cho phần code và cấu trúc repo. Văn bản pháp luật được dẫn chiếu là tài liệu công khai của Nhà nước, không thuộc phạm vi license này.
