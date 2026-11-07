@@ -132,6 +132,14 @@ Mọi chỗ từng ghi sai và đã sửa được liệt kê ở [lịch sử �
 
 Cảm ơn [@anhtahaylove](https://github.com/anhtahaylove) đã sửa lỗi cài qua `npx skills add` và giúp `scan.sh` nhận ra nút "Đặt hàng".
 
+## Mời mình ly cà phê
+
+Repo miễn phí và sẽ luôn miễn phí. Nếu nó giúp bạn đỡ một buổi lội luật, mời mình ly cà phê để có động lực cập nhật tiếp nhé ☕
+
+<img src="demo/vietqr.png" alt="VietQR TPBank, Nguyen Minh Hieu, 62626926789" width="220">
+
+TPBank · NGUYEN MINH HIEU · 62626926789
+
 ## Dành cho dev: cấu trúc repo
 
 Cùng một nội dung, đặt ở nhiều file để mỗi tool tự đọc đúng chỗ:

@@ -96,7 +96,7 @@ def page(slug, title, desc, body, faq=None):
 {FOOT_NOTE}
 {"" if slug == "index" else TOOL_CTA}
 </main>
-<footer>vn-law-check · mã nguồn mở, MIT · <a href="{REPO}">github.com/mhfed/vn-law-check</a> · Văn bản pháp luật được dẫn là tài liệu công khai của Nhà nước.</footer>
+<footer>vn-law-check · mã nguồn mở, MIT · <a href="{REPO}">github.com/mhfed/vn-law-check</a> · <a href="{REPO}#mời-mình-ly-cà-phê">Mời mình ly cà phê ☕</a> · Văn bản pháp luật được dẫn là tài liệu công khai của Nhà nước.</footer>
 </body>
 </html>
 """
