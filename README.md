@@ -4,6 +4,8 @@ Open-source compliance audit for Vietnamese websites and apps. Bảo AI coding a
 
 Dùng cho Claude Code, Cursor, Copilot, Windsurf, Cline, Codex. Hỗ trợ cả website lẫn mobile app.
 
+[English](README.en.md)
+
 ![Demo: quét một shop cà phê và một blog tĩnh](demo/demo.png)
 
 ## Nó giúp gì?
